@@ -1,0 +1,431 @@
+Folder PATH listing for volume 2022-8-4-Engrg
+Volume serial number is CA95-8697
+C:.
+³   .condarc
+³   tree.txt
+³   
+ÃÄÄÄ.anaconda
+³   ÀÄÄÄnavigator
+³       ³   anaconda-navigator.ini
+³       ³   navigator.lock
+³       ³   navigator.pid
+³       ³   
+³       ÃÄÄÄcontent
+³       ³       content.json
+³       ³       
+³       ÃÄÄÄdefaults
+³       ³       defaults-2.0.0.ini
+³       ³       
+³       ÃÄÄÄlogs
+³       ³       navigator.log
+³       ³       
+³       ÃÄÄÄmetadata
+³       ³       metadata.json
+³       ³       
+³       ÀÄÄÄscripts
+³               notebook-err-1.txt
+³               notebook-out-1.txt
+³               notebook.bat
+³               
+ÃÄÄÄ.android
+³       adb_usb.ini
+³       
+ÃÄÄÄ.conda
+ÃÄÄÄ.ms-ad
+ÃÄÄÄ.templateengine
+³   ÃÄÄÄpackages
+³   ÀÄÄÄvs
+³       ÀÄÄÄ16.6.4+30309.148-deb155d1
+³           ³   .firstrun
+³           ³   .vstemplates
+³           ³   en-US.templatecache.json
+³           ³   installUnitDescriptors.json
+³           ³   settings.json
+³           ³   templatecache.json
+³           ³   
+³           ÀÄÄÄpackages
+³                   microsoft.aspnetcore.components.webassembly.templates.3.2.1.nupkg
+³                   microsoft.dotnet.common.itemtemplates.3.1.6.nupkg
+³                   microsoft.dotnet.common.projecttemplates.2.1.1.0.2-beta3.nupkg
+³                   microsoft.dotnet.common.projecttemplates.3.1.3.1.6.nupkg
+³                   microsoft.dotnet.test.projecttemplates.2.1.1.0.2-beta4.20105.2.nupkg
+³                   microsoft.dotnet.test.projecttemplates.3.1.1.0.2-beta4.20176.1.nupkg
+³                   microsoft.dotnet.web.itemtemplates.3.1.6.nupkg
+³                   microsoft.dotnet.web.projecttemplates.2.1.2.1.14.nupkg
+³                   microsoft.dotnet.web.projecttemplates.3.1.3.1.6.nupkg
+³                   microsoft.dotnet.web.spa.projecttemplates.2.1.2.1.14.nupkg
+³                   microsoft.dotnet.web.spa.projecttemplates.3.1.3.1.6.nupkg
+³                   microsoft.dotnet.winforms.projecttemplates.4.8.1-servicing.20308.4.nupkg
+³                   microsoft.dotnet.wpf.projecttemplates.3.1.6-servicing.20315.3.nupkg
+³                   nunit3.dotnetnew.template.1.7.1.nupkg
+³                   
+ÃÄÄÄ.VirtualBox
+³       selectorwindow.log
+³       vbox-ssl-cacertificate.crt
+³       VBoxSVC.log
+³       VirtualBox.xml
+³       VirtualBox.xml-prev
+³       
+ÃÄÄÄ3D Objects
+ÃÄÄÄContacts
+ÃÄÄÄLinks
+³       Desktop.lnk
+³       Downloads.lnk
+³       
+ÃÄÄÄSaved Games
+ÃÄÄÄSearches
+³       winrt--{S-1-5-21-151853147-1161111475-1586563796-54796}-.searchconnector-ms
+³       winrt--{S-1-5-21-1812886123-892064564-33453386-500}-.searchconnector-ms
+³       
+ÀÄÄÄsource
+    ÀÄÄÄrepos
+        ÃÄÄÄConsoleApp1
+        ³   ³   ConsoleApp1.sln
+        ³   ³   
+        ³   ÀÄÄÄConsoleApp1
+        ³       ³   ConsoleApp1.csproj
+        ³       ³   Program.cs
+        ³       ³   
+        ³       ÃÄÄÄbin
+        ³       ³   ÀÄÄÄDebug
+        ³       ³       ÀÄÄÄnetcoreapp3.1
+        ³       ³               ConsoleApp1.deps.json
+        ³       ³               ConsoleApp1.dll
+        ³       ³               ConsoleApp1.exe
+        ³       ³               ConsoleApp1.pdb
+        ³       ³               ConsoleApp1.runtimeconfig.dev.json
+        ³       ³               ConsoleApp1.runtimeconfig.json
+        ³       ³               
+        ³       ÀÄÄÄobj
+        ³           ³   ConsoleApp1.csproj.nuget.cache
+        ³           ³   ConsoleApp1.csproj.nuget.dgspec.json
+        ³           ³   ConsoleApp1.csproj.nuget.g.props
+        ³           ³   ConsoleApp1.csproj.nuget.g.targets
+        ³           ³   project.assets.json
+        ³           ³   project.nuget.cache
+        ³           ³   
+        ³           ÀÄÄÄDebug
+        ³               ÀÄÄÄnetcoreapp3.1
+        ³                       .NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+        ³                       ConsoleApp1.AssemblyInfo.cs
+        ³                       ConsoleApp1.AssemblyInfoInputs.cache
+        ³                       ConsoleApp1.assets.cache
+        ³                       ConsoleApp1.csproj.CoreCompileInputs.cache
+        ³                       ConsoleApp1.csproj.FileListAbsolute.txt
+        ³                       ConsoleApp1.csprojAssemblyReference.cache
+        ³                       ConsoleApp1.dll
+        ³                       ConsoleApp1.exe
+        ³                       ConsoleApp1.genruntimeconfig.cache
+        ³                       ConsoleApp1.pdb
+        ³                       
+        ÃÄÄÄConsoleApp2
+        ³   ³   ConsoleApp2.sln
+        ³   ³   
+        ³   ÀÄÄÄConsoleApp2
+        ³       ³   App.config
+        ³       ³   ConsoleApp2.csproj
+        ³       ³   Program.cs
+        ³       ³   
+        ³       ÃÄÄÄbin
+        ³       ³   ÀÄÄÄDebug
+        ³       ³           ConsoleApp2.exe
+        ³       ³           ConsoleApp2.exe.config
+        ³       ³           ConsoleApp2.pdb
+        ³       ³           target.txt
+        ³       ³           
+        ³       ÃÄÄÄobj
+        ³       ³   ÀÄÄÄDebug
+        ³       ³       ³   ConsoleApp2.csproj.CoreCompileInputs.cache
+        ³       ³       ³   ConsoleApp2.csproj.FileListAbsolute.txt
+        ³       ³       ³   ConsoleApp2.csprojAssemblyReference.cache
+        ³       ³       ³   ConsoleApp2.exe
+        ³       ³       ³   ConsoleApp2.pdb
+        ³       ³       ³   DesignTimeResolveAssemblyReferencesInput.cache
+        ³       ³       ³   TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+        ³       ³       ³   TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+        ³       ³       ³   TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+        ³       ³       ³   
+        ³       ³       ÀÄÄÄTempPE
+        ³       ÀÄÄÄProperties
+        ³               AssemblyInfo.cs
+        ³               
+        ÃÄÄÄConsoleApp3
+        ³   ³   ConsoleApp3.sln
+        ³   ³   
+        ³   ÀÄÄÄConsoleApp3
+        ³       ³   App.config
+        ³       ³   ConsoleApp3.csproj
+        ³       ³   Program.cs
+        ³       ³   
+        ³       ÃÄÄÄbin
+        ³       ³   ÀÄÄÄDebug
+        ³       ³           ConsoleApp3.exe
+        ³       ³           ConsoleApp3.exe.config
+        ³       ³           ConsoleApp3.pdb
+        ³       ³           
+        ³       ÃÄÄÄobj
+        ³       ³   ÀÄÄÄDebug
+        ³       ³       ³   ConsoleApp3.csproj.CoreCompileInputs.cache
+        ³       ³       ³   ConsoleApp3.csproj.FileListAbsolute.txt
+        ³       ³       ³   ConsoleApp3.csprojAssemblyReference.cache
+        ³       ³       ³   ConsoleApp3.exe
+        ³       ³       ³   ConsoleApp3.pdb
+        ³       ³       ³   DesignTimeResolveAssemblyReferencesInput.cache
+        ³       ³       ³   TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+        ³       ³       ³   TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+        ³       ³       ³   TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+        ³       ³       ³   
+        ³       ³       ÀÄÄÄTempPE
+        ³       ÀÄÄÄProperties
+        ³               AssemblyInfo.cs
+        ³               
+        ÃÄÄÄConsoleApp4
+        ³   ³   ConsoleApp4.sln
+        ³   ³   
+        ³   ÀÄÄÄConsoleApp4
+        ³       ³   App.config
+        ³       ³   ConsoleApp4.csproj
+        ³       ³   Program.cs
+        ³       ³   Rational.cs
+        ³       ³   
+        ³       ÃÄÄÄbin
+        ³       ³   ÃÄÄÄDebug
+        ³       ³   ³       ConsoleApp4.exe
+        ³       ³   ³       ConsoleApp4.exe.config
+        ³       ³   ³       ConsoleApp4.pdb
+        ³       ³   ³       Program.cs
+        ³       ³   ³       source.txt
+        ³       ³   ³       target.txt
+        ³       ³   ³       
+        ³       ³   ÀÄÄÄRelease
+        ³       ÃÄÄÄobj
+        ³       ³   ÀÄÄÄDebug
+        ³       ³       ³   ConsoleApp4.csproj.CoreCompileInputs.cache
+        ³       ³       ³   ConsoleApp4.csproj.FileListAbsolute.txt
+        ³       ³       ³   ConsoleApp4.csprojAssemblyReference.cache
+        ³       ³       ³   ConsoleApp4.exe
+        ³       ³       ³   ConsoleApp4.pdb
+        ³       ³       ³   DesignTimeResolveAssemblyReferencesInput.cache
+        ³       ³       ³   TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+        ³       ³       ³   TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+        ³       ³       ³   TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+        ³       ³       ³   
+        ³       ³       ÀÄÄÄTempPE
+        ³       ÀÄÄÄProperties
+        ³               AssemblyInfo.cs
+        ³               
+        ÃÄÄÄConsoleApp5
+        ³   ³   ConsoleApp5.sln
+        ³   ³   
+        ³   ÀÄÄÄConsoleApp5
+        ³       ³   ConsoleApp5.csproj
+        ³       ³   Program.cs
+        ³       ³   
+        ³       ÃÄÄÄbin
+        ³       ³   ÀÄÄÄDebug
+        ³       ³       ÀÄÄÄnet6.0
+        ³       ³               ConsoleApp5.deps.json
+        ³       ³               ConsoleApp5.dll
+        ³       ³               ConsoleApp5.exe
+        ³       ³               ConsoleApp5.pdb
+        ³       ³               ConsoleApp5.runtimeconfig.json
+        ³       ³               
+        ³       ÀÄÄÄobj
+        ³           ³   ConsoleApp5.csproj.nuget.dgspec.json
+        ³           ³   ConsoleApp5.csproj.nuget.g.props
+        ³           ³   ConsoleApp5.csproj.nuget.g.targets
+        ³           ³   project.assets.json
+        ³           ³   project.nuget.cache
+        ³           ³   
+        ³           ÀÄÄÄDebug
+        ³               ÀÄÄÄnet6.0
+        ³                   ³   .NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+        ³                   ³   apphost.exe
+        ³                   ³   ConsoleApp5.AssemblyInfo.cs
+        ³                   ³   ConsoleApp5.AssemblyInfoInputs.cache
+        ³                   ³   ConsoleApp5.assets.cache
+        ³                   ³   ConsoleApp5.csproj.AssemblyReference.cache
+        ³                   ³   ConsoleApp5.csproj.BuildWithSkipAnalyzers
+        ³                   ³   ConsoleApp5.csproj.CoreCompileInputs.cache
+        ³                   ³   ConsoleApp5.csproj.FileListAbsolute.txt
+        ³                   ³   ConsoleApp5.dll
+        ³                   ³   ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+        ³                   ³   ConsoleApp5.genruntimeconfig.cache
+        ³                   ³   ConsoleApp5.GlobalUsings.g.cs
+        ³                   ³   ConsoleApp5.pdb
+        ³                   ³   
+        ³                   ÃÄÄÄref
+        ³                   ³       ConsoleApp5.dll
+        ³                   ³       
+        ³                   ÀÄÄÄrefint
+        ³                           ConsoleApp5.dll
+        ³                           
+        ÃÄÄÄConsoleApp6
+        ³   ³   ConsoleApp6.sln
+        ³   ³   
+        ³   ÀÄÄÄConsoleApp6
+        ³       ³   ConsoleApp6.csproj
+        ³       ³   Program.cs
+        ³       ³   
+        ³       ÃÄÄÄbin
+        ³       ³   ÀÄÄÄDebug
+        ³       ³       ÀÄÄÄnet6.0
+        ³       ³               ConsoleApp6.deps.json
+        ³       ³               ConsoleApp6.dll
+        ³       ³               ConsoleApp6.exe
+        ³       ³               ConsoleApp6.pdb
+        ³       ³               ConsoleApp6.runtimeconfig.json
+        ³       ³               
+        ³       ÀÄÄÄobj
+        ³           ³   ConsoleApp6.csproj.nuget.dgspec.json
+        ³           ³   ConsoleApp6.csproj.nuget.g.props
+        ³           ³   ConsoleApp6.csproj.nuget.g.targets
+        ³           ³   project.assets.json
+        ³           ³   project.nuget.cache
+        ³           ³   
+        ³           ÀÄÄÄDebug
+        ³               ÀÄÄÄnet6.0
+        ³                   ³   .NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+        ³                   ³   apphost.exe
+        ³                   ³   ConsoleApp6.AssemblyInfo.cs
+        ³                   ³   ConsoleApp6.AssemblyInfoInputs.cache
+        ³                   ³   ConsoleApp6.assets.cache
+        ³                   ³   ConsoleApp6.csproj.AssemblyReference.cache
+        ³                   ³   ConsoleApp6.csproj.BuildWithSkipAnalyzers
+        ³                   ³   ConsoleApp6.csproj.CoreCompileInputs.cache
+        ³                   ³   ConsoleApp6.csproj.FileListAbsolute.txt
+        ³                   ³   ConsoleApp6.dll
+        ³                   ³   ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+        ³                   ³   ConsoleApp6.genruntimeconfig.cache
+        ³                   ³   ConsoleApp6.GlobalUsings.g.cs
+        ³                   ³   ConsoleApp6.pdb
+        ³                   ³   
+        ³                   ÃÄÄÄref
+        ³                   ³       ConsoleApp6.dll
+        ³                   ³       
+        ³                   ÀÄÄÄrefint
+        ³                           ConsoleApp6.dll
+        ³                           
+        ÃÄÄÄCSC180Week01
+        ³   ³   CSC180Week01.sln
+        ³   ³   
+        ³   ÀÄÄÄCSC180Week01
+        ³       ³   CSC180Week01.csproj
+        ³       ³   Program.cs
+        ³       ³   
+        ³       ÃÄÄÄbin
+        ³       ³   ÀÄÄÄDebug
+        ³       ³       ÀÄÄÄnet6.0
+        ³       ³               CSC180Week01.deps.json
+        ³       ³               CSC180Week01.dll
+        ³       ³               CSC180Week01.exe
+        ³       ³               CSC180Week01.pdb
+        ³       ³               CSC180Week01.runtimeconfig.json
+        ³       ³               
+        ³       ÀÄÄÄobj
+        ³           ³   CSC180Week01.csproj.nuget.dgspec.json
+        ³           ³   CSC180Week01.csproj.nuget.g.props
+        ³           ³   CSC180Week01.csproj.nuget.g.targets
+        ³           ³   project.assets.json
+        ³           ³   project.nuget.cache
+        ³           ³   
+        ³           ÀÄÄÄDebug
+        ³               ÀÄÄÄnet6.0
+        ³                   ³   .NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+        ³                   ³   apphost.exe
+        ³                   ³   CSC180Week01.AssemblyInfo.cs
+        ³                   ³   CSC180Week01.AssemblyInfoInputs.cache
+        ³                   ³   CSC180Week01.assets.cache
+        ³                   ³   CSC180Week01.csproj.AssemblyReference.cache
+        ³                   ³   CSC180Week01.csproj.BuildWithSkipAnalyzers
+        ³                   ³   CSC180Week01.csproj.CoreCompileInputs.cache
+        ³                   ³   CSC180Week01.csproj.FileListAbsolute.txt
+        ³                   ³   CSC180Week01.dll
+        ³                   ³   CSC180Week01.GeneratedMSBuildEditorConfig.editorconfig
+        ³                   ³   CSC180Week01.genruntimeconfig.cache
+        ³                   ³   CSC180Week01.GlobalUsings.g.cs
+        ³                   ³   CSC180Week01.pdb
+        ³                   ³   
+        ³                   ÃÄÄÄref
+        ³                   ³       CSC180Week01.dll
+        ³                   ³       
+        ³                   ÀÄÄÄrefint
+        ³                           CSC180Week01.dll
+        ³                           
+        ÃÄÄÄCSC340Demo
+        ³   ³   .gitattributes
+        ³   ³   .gitignore
+        ³   ³   CSC340Demo.sln
+        ³   ³   
+        ³   ÀÄÄÄCSC340Demo
+        ³       ³   CSC340Demo.csproj
+        ³       ³   Program.cs
+        ³       ³   
+        ³       ÃÄÄÄbin
+        ³       ³   ÀÄÄÄDebug
+        ³       ³       ÀÄÄÄnet6.0
+        ³       ³               CSC340Demo.deps.json
+        ³       ³               CSC340Demo.dll
+        ³       ³               CSC340Demo.exe
+        ³       ³               CSC340Demo.pdb
+        ³       ³               CSC340Demo.runtimeconfig.json
+        ³       ³               
+        ³       ÀÄÄÄobj
+        ³           ³   CSC340Demo.csproj.nuget.dgspec.json
+        ³           ³   CSC340Demo.csproj.nuget.g.props
+        ³           ³   CSC340Demo.csproj.nuget.g.targets
+        ³           ³   project.assets.json
+        ³           ³   project.nuget.cache
+        ³           ³   
+        ³           ÀÄÄÄDebug
+        ³               ÀÄÄÄnet6.0
+        ³                   ³   .NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+        ³                   ³   apphost.exe
+        ³                   ³   CSC340Demo.AssemblyInfo.cs
+        ³                   ³   CSC340Demo.AssemblyInfoInputs.cache
+        ³                   ³   CSC340Demo.assets.cache
+        ³                   ³   CSC340Demo.csproj.AssemblyReference.cache
+        ³                   ³   CSC340Demo.csproj.BuildWithSkipAnalyzers
+        ³                   ³   CSC340Demo.csproj.CoreCompileInputs.cache
+        ³                   ³   CSC340Demo.csproj.FileListAbsolute.txt
+        ³                   ³   CSC340Demo.dll
+        ³                   ³   CSC340Demo.GeneratedMSBuildEditorConfig.editorconfig
+        ³                   ³   CSC340Demo.genruntimeconfig.cache
+        ³                   ³   CSC340Demo.GlobalUsings.g.cs
+        ³                   ³   CSC340Demo.pdb
+        ³                   ³   
+        ³                   ÃÄÄÄref
+        ³                   ³       CSC340Demo.dll
+        ³                   ³       
+        ³                   ÀÄÄÄrefint
+        ³                           CSC340Demo.dll
+        ³                           
+        ÀÄÄÄHashFinal
+            ³   HashFinal.sln
+            ³   
+            ÀÄÄÄHashFinal
+                ³   HashFinal.csproj
+                ³   Program.cs
+                ³   
+                ÃÄÄÄbin
+                ³   ÀÄÄÄDebug
+                ³       ÀÄÄÄnet6.0
+                ÀÄÄÄobj
+                    ³   HashFinal.csproj.nuget.dgspec.json
+                    ³   HashFinal.csproj.nuget.g.props
+                    ³   HashFinal.csproj.nuget.g.targets
+                    ³   project.assets.json
+                    ³   project.nuget.cache
+                    ³   
+                    ÀÄÄÄDebug
+                        ÀÄÄÄnet6.0
+                            ³   .NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+                            ³   HashFinal.AssemblyInfo.cs
+                            ³   HashFinal.AssemblyInfoInputs.cache
+                            ³   HashFinal.assets.cache
+                            ³   HashFinal.csproj.AssemblyReference.cache
+                            ³   HashFinal.GeneratedMSBuildEditorConfig.editorconfig
+                            ³   HashFinal.GlobalUsings.g.cs
+                            ³   
+                            ÃÄÄÄref
+                            ÀÄÄÄrefint
